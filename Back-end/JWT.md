@@ -1,4 +1,4 @@
-# JWT, 인증 / 인가
+# JWT, 인증 / 인가, AccessToken / RefreshToken
 <br/>
 
 ## 클라리언트 측 렌더링(CSR) 과 API
@@ -54,12 +54,19 @@ JWT의 단점은
 
 <br/>
 
-## 인증/인가
+## JWT와 인증/인가의 관계는?
 
-인증과 인가의 개념은 다음과 같다.
-- Authentiaction : 인증
-실제 유저인지 확인 ( 로그인 )
-- Authorization : 인가
-유저가 접근 가능한지 허가 확인 ( 회원/비회원 )
+- Authentiaction( 인증 ) : 실제 유저인지 확인 ( 로그인 )
+- Authorization( 인가 ) : 유저가 접근 가능한지 허가 확인 ( 회원/비회원 )
 
-로그인 할 때 사용되는 토큰이 AccessToken 이다.
+JWT는 결국 인증 및 인가 시스템에서 사용되는 보안 토큰이다.
+
+따라서 사용자가 인증되면 JWT가 발급되고, 이 JWT는 사용자의 인가 정보를 포함하여 사용자가 특성 리소스에 대한 엑세스를 요청할 때 사용된다 라고 이해할 수 있다.
+
+<br/>
+
+## AccessToken, RefreshToken
+
+인증에 사용되는 토큰을 AccessToken 이라 한다. ### JWT는 이러한 토큰을 구현하는 방법 중 하나이다.
+
+
