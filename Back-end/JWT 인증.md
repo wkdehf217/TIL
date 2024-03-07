@@ -1,5 +1,5 @@
 # JWT 인증
 
-## 개요
+## 정의
 
-JWT는 
+JWT : Json Web Token
