@@ -67,6 +67,6 @@ JWT는 결국 인증 및 인가 시스템에서 사용되는 보안 토큰이다
 
 ## AccessToken, RefreshToken
 
-인증에 사용되는 토큰을 AccessToken 이라 한다. ### JWT는 이러한 토큰을 구현하는 방법 중 하나이다.
+인증에 사용되는 토큰을 AccessToken 이라 한다. **JWT는 이러한 토큰을 구현하는 방법 중 하나이다.
 
 
