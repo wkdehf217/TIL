@@ -12,7 +12,7 @@
 
 ## 1. Back-end
 
-* [🔗 JWT 인증](./WEB/Back-end/JWT%20인증.md)
+* [JWT 인증](./WEB/Back-end/JWT%20인증.md)
 
 ## 2. Front-end
 
@@ -28,4 +28,4 @@
 
 ## 5. 코딩테스트
 
-* [코딩테스트](https://github.com/wkdehf217/CodingTest)
+* [🔗 코딩테스트](https://github.com/wkdehf217/CodingTest)
