@@ -1,4 +1,4 @@
-# JWT, 인증 / 인가, AccessToken / RefreshToken
+# JWT / 인증, 인가 / AccessToken, RefreshToken
 <br/>
 
 ## 클라리언트 측 렌더링(CSR) 과 API
