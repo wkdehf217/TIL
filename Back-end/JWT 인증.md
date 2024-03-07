@@ -2,4 +2,4 @@
 
 ## 정의
 
-JWT : Json Web Token
+JWT = Json Web Token
