@@ -12,7 +12,7 @@
 
 ## 1. Back-end
 
-* [JWT, 인증/인가](./WEB/Back-end/JWT.md)
+* [JWT, 인증/인가](./Back-end/JWT.md)
 
 ## 2. Front-end
 
