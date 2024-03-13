@@ -1,6 +1,6 @@
-# TIL
+# Today I Leanred
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Today%20I%20Learned&fontSize=90)
+- 하루동안 공부한 내용을 정리해서 기록합니다.
 
 ## 목차
 
